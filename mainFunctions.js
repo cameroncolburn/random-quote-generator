@@ -3,16 +3,16 @@ var quoteButton = document.getElementById("quote-button");
 quoteButton.addEventListener("click", displayQuote);
 //authors and quotes
 var quoteAuthor = [
-    "- Helen Keller",
-    "- Francis of Assisi",
-    "- Jimmy Dean",
-    "- William Shakespeare",
-    "- Aristotle",
-    "- H. Jackson Brown, Jr.",
-    "- Walt Whitman",
-    "- Ralph Waldo Emerson",
-    "- Aesop",
-    "- Robert Louis Stevenson"
+    "Helen Keller",
+    "Francis of Assisi",
+    "Jimmy Dean",
+    "William Shakespeare",
+    "Aristotle",
+    "H. Jackson Brown, Jr.",
+    "Walt Whitman",
+    "Ralph Waldo Emerson",
+    "Aesop",
+    "Robert Louis Stevenson"
 ];
 var quoteContent = [
     "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
